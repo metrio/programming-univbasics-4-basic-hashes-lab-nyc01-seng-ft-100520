@@ -4,7 +4,7 @@ end
 
 def my_hash
   my_hash = {
-    27
+    "Ruby"
   }
 end
 
